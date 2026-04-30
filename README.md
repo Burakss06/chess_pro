@@ -12,7 +12,6 @@ Stockfish satranç motoru ile güçlendirilmiş, Flutter tabanlı masaüstü sat
 ## 📋 İçindekiler
 
 - [Özellikler](#-özellikler)
-- [Ekran Görüntüleri](#-ekran-görüntüleri)
 - [Kurulum](#-kurulum)
 - [Stockfish Entegrasyonu](#-stockfish-entegrasyonu)
 - [Proje Yapısı](#-proje-yapısı)
@@ -37,12 +36,6 @@ Stockfish satranç motoru ile güçlendirilmiş, Flutter tabanlı masaüstü sat
 | 🔊 **Ses Efektleri** | Hamle, taş alma ve şah durumları için ayrı ses efektleri. |
 | 🎨 **Premium Arayüz** | Koyu tema, altın vurgular, SVG tabanlı taşlar, yasal hamle göstergeleri ve animasyonlu geçişler. |
 | ⚙️ **Ayarlar** | Yapay zeka zorluğunu manuel veya otomatik (adaptif) olarak ayarlayabilirsiniz. |
-
----
-
-## 📸 Ekran Görüntüleri
-
-> Ekran görüntüleri yakında eklenecektir.
 
 ---
 
